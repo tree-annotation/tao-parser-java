@@ -66,8 +66,8 @@ public class TaoParser
         public List<Tagged> getParts() {
             return parts;
         }
-        public void push(Tagged tree) {
-            parts.add(tree);
+        public void push(Tagged part) {
+            parts.add(part);
         }
         @Override
         public String toString() {

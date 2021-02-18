@@ -8,11 +8,11 @@ The implementation can be used as a reference for other parsers, in particular i
 
 # Interactive version
 
-Interactive version of the parser in JavaScript can be to tried at [tree-annotation.org](https://tree-annotation.org/parser.html).
+Interactive version of the parser in JavaScript can be tried at [tree-annotation.org](https://tree-annotation.org/parser.html).
 
 # Usage
 
-`Example.jsh` contains a simple JShell script that can be run like this:
+`Example.jsh` contains a simple [JShell](https://en.wikipedia.org/wiki/JShell) script that can be run like this:
 
 ```
 jshell Example.jsh
